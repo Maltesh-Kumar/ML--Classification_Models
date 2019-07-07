@@ -1,1 +1,3 @@
-# ML--Classification_Models
+# Machine Learning - Classification Models
+
+This repository contains different Classification Analysis and Prediction Models 
