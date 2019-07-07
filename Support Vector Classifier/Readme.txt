@@ -1,0 +1,1 @@
+This model is basically uses Support Vector Classification technique in determining these(['setosa', 'versicolor', 'virginica']) target outcome by maximizing the seperation bewtween those categories making new data points easy to classify  
